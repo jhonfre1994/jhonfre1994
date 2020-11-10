@@ -1,5 +1,4 @@
-<img align='right' width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-### las
+<img align='right' width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ### HI, i am jhon freddy salamanca👋
 
@@ -10,9 +9,7 @@ This is the place where I create stuff and break others. 🤣
 - I’m currently learning everything :grin:
 - 
 - 📫 How to reach me: on Email at [Jhon Salamanca](mailto:jhonfre9419@gmail.com).
-
-
-                                                                     
+                                                               
 <br />
 
 ### Languages and Tools:

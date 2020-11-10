@@ -5,8 +5,7 @@
 This is the place where I create stuff and break others. 🤣
 
 - 🧠 I love learning new things.
-- :heart: Me encanta el desarrollo.
-- I’m currently learning everything :grin:
+- :heart: I’m currently learning everything :grin:
 - 📫 How to reach me: on Email at [Jhon Salamanca](mailto:jhonfre9419@gmail.com).
 
 ### Connect with me:
@@ -18,6 +17,7 @@ This is the place where I create stuff and break others. 🤣
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
+[![<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]][linkedin]
 
 [1.1]: https://i.imgur.com/4DfAevU.png (linkedin icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)

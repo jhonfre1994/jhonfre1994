@@ -1,6 +1,7 @@
-<img align="right" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align='right' width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <div style="text-align:right">
-asds</div>
+  <p>asds</p>
+</div>
 ### HI, i am jhon freddy salamanca👋
 
 This is the place where I create stuff and break others. 🤣

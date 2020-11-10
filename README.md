@@ -8,7 +8,7 @@ This is the place where I create stuff and break others. 🤣
 - 📫 How to reach me: on Email at [Jhon Salamanca](mailto:jhonfre9419@gmail.com).
 
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 
                                                                        

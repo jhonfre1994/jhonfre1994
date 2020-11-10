@@ -8,10 +8,8 @@ This is the place where I create stuff and break others. 🤣
 - 📫 How to reach me: on Email at [Jhon Salamanca](mailto:jhonfre9419@gmail.com).
 
 
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
-
-                                                                       
+<img align="right" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+                                                                     
 <br />
 
 ### Languages and Tools:

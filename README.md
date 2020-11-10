@@ -12,7 +12,7 @@ This is the place where I create stuff and break others. 🤣
 ### Connect with me:
 
 
-[![alt text][<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]][1]
+[![<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]][1]
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui

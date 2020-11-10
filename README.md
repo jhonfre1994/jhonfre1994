@@ -1,5 +1,5 @@
 <img align='right' width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-<p align="center">
+<p align="right">
   <img src="http://some_place.com/image.png" />
 </p>
 ### HI, i am jhon freddy salamanca👋

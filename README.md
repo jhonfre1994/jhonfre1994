@@ -9,7 +9,7 @@ This is the place where I create stuff and break others. 🤣
 
 
 ### Connect with me:
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/jhon-freddy-b158a81a7/]
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://www.linkedin.com/in/jhon-freddy-b158a81a7/" />][]
 [<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

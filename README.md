@@ -7,7 +7,7 @@ This is the place where I create stuff and break others. 🤣
 - 💬 Ask me about ...
 - 📫 How to reach me: on Email at [Jhon Salamanca](mailto:jhonfre9419@gmail.com).
 
-<div align="rigth">
+<div align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"> 
 </div>
                                                                        

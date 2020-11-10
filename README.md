@@ -11,7 +11,7 @@ This is the place where I create stuff and break others. 🤣
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
-
+<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?raw=true"></a>
 
 
 <br />

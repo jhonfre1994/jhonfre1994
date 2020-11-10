@@ -10,8 +10,8 @@ This is the place where I create stuff and break others. 🤣
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/jhon-freddy-b158a81a7/"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?raw=true"></a>
-<a href="https://www.instagram.com/jhonfreddysalamanca/?hl=es-la"><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?raw=true"></a>
+<a href="https://www.linkedin.com/in/jhon-freddy-b158a81a7/"><img  align="left" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?raw=true"></a>
+<a href="https://www.instagram.com/jhonfreddysalamanca/?hl=es-la"><img  align="left" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?raw=true"></a>
 
 ### Languages and Tools:
 
